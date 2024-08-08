@@ -1,0 +1,6 @@
+asyncpg
+databases[postgresql]
+fastapi
+SQLAlchemy
+psycopg2
+fastapi-cache2[redis]

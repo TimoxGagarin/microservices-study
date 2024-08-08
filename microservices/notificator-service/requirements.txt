@@ -1,0 +1,9 @@
+pydantic
+pydantic-settings
+fastapi
+aiogram
+python-dotenv
+redis
+uvloop
+celery
+flower
